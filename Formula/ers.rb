@@ -1,8 +1,8 @@
 class Ers < Formula
   desc "Window border renderer for macOS"
   homepage "https://github.com/gardesk/ers"
-  url "https://github.com/gardesk/ers/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "1b6fd80a658d231b07e0c90bd196099b9a5f25a41a080f97338347567fce987e"
+  url "https://github.com/gardesk/ers/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "7c086810c7d198f221d28d0a1438ff5b3750e99de0d560259046b1a168b891bc"
   license "MIT"
 
   depends_on "rust" => :build
