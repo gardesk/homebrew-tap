@@ -1,9 +1,9 @@
 class Tarmac < Formula
   desc "Tiling window manager for macOS, configured with Lua"
   homepage "https://github.com/gardesk/tarmac"
-  url "https://github.com/gardesk/tarmac/releases/download/v0.3.5/tarmac-v0.3.5-darwin-arm64.tar.gz"
-  sha256 "2d0b39a59795966ab9175eaa918bb560953fc82ac3c699eef6db141c29a2dcdf"
-  version "0.3.5"
+  url "https://github.com/gardesk/tarmac/releases/download/v0.3.6/tarmac-v0.3.6-darwin-arm64.tar.gz"
+  sha256 "21ad45acd24ff97e3ad19d93df56ed4713e1766700b33fc8fb41588cf7ebc817"
+  version "0.3.6"
   license "MIT"
 
   depends_on :macos
